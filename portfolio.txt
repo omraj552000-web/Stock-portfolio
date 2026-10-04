@@ -1,0 +1,10 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+AAPL | Quantity: 6 | Price: $180 | Investment: $1080
+MSFT | Quantity: 5 | Price: $420 | Investment: $2100
+AMZN | Quantity: 8 | Price: $190 | Investment: $1520
+TSLA | Quantity: 4 | Price: $250 | Investment: $1000
+
+========================================
+Total Investment: $5700
